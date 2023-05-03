@@ -20,7 +20,7 @@
 
 ### SNS & Contact
 <a href="https://velog.io/@soyeon9819"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="soyeon9819@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:soyeon9819@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 
 
